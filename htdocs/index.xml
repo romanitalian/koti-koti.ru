@@ -6,27 +6,36 @@
     <description>Recent content on KOTI-KOTI.RU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Apr 2018 23:04:03 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Apr 2018 00:03:38 +0300</lastBuildDate>
     
 	<atom:link href="http://koti-koti.ru/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tst</title>
-      <link>http://koti-koti.ru/tst/</link>
-      <pubDate>Sun, 29 Apr 2018 23:04:03 +0300</pubDate>
+      <title>Два типа Кошек</title>
+      <link>http://koti-koti.ru/page3/</link>
+      <pubDate>Mon, 30 Apr 2018 00:03:38 +0300</pubDate>
       
-      <guid>http://koti-koti.ru/tst/</guid>
+      <guid>http://koti-koti.ru/page3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://koti-koti.ru/about/</link>
-      <pubDate>Sun, 29 Apr 2018 22:24:07 +0300</pubDate>
+      <title>Крутое селфи</title>
+      <link>http://koti-koti.ru/page2/</link>
+      <pubDate>Sun, 29 Apr 2018 23:47:15 +0300</pubDate>
       
-      <guid>http://koti-koti.ru/about/</guid>
-      <description>page about</description>
+      <guid>http://koti-koti.ru/page2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Когти в печень, никто не вечен</title>
+      <link>http://koti-koti.ru/page1/</link>
+      <pubDate>Sun, 29 Apr 2018 23:44:59 +0300</pubDate>
+      
+      <guid>http://koti-koti.ru/page1/</guid>
+      <description></description>
     </item>
     
   </channel>
