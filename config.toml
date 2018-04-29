@@ -1,49 +1,7 @@
 baseURL = "http://koti-koti.ru/"
 languageCode = "en-us"
 title = "KOTI-KOTI.RU"
-theme = "hugo-creative-portfolio-theme"
+theme = "koti"
 disqusShortname = ""
 googleAnalytics = "UA-118341891-1"
-
-[params]
-  # Style options: default (pink), blue, green, pink, red, sea, violet
-  # Use custom.css for your custom styling
-  style = "blue"
-  description = "koti-koti.ru cats and fun"
-  copyright = "&copy;2018 koti company"
-  sidebarAbout = [
-    "Это сайт о котах/котиках/котэ и приколах/милоте, связанных с ними",
-    "Частые обновления и свежие котики в наших подборках."
-  ]
-  # Contact page
-     # Since this template is static, the contact form uses www.formspree.io as a
-     # proxy. The form makes a POST request to their servers to send the actual
-     # email. Visitors can send up to a 1000 emails each month for free.
-     #
-     # What you need to do for the setup?
-     #
-     # - set your email address under 'email' below
-     # - upload the generated site to your server
-     # - send a dummy email yourself to confirm your account
-     # - click the confirm link in the email from www.formspree.io
-     # - you're done. Happy mailing!
-  email = "romanitalian.net@gmail.com"
-
-  # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = ""
-
-  [[params.navlinks]]
-  name = "About"
-  url = "about/"
-
-  [params.social]
-  # facebook      = "full page or profile url in facebook"
-  # googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  # twitter       = "full profile url in twitter"
-  # linkedin      = "full profile url in linkedin"
-  # stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  # github        = "full profile url in github"
+publishDir = "htdocs"

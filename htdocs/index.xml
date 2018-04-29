@@ -6,10 +6,19 @@
     <description>Recent content on KOTI-KOTI.RU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Apr 2018 22:24:07 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Apr 2018 23:04:03 +0300</lastBuildDate>
     
 	<atom:link href="http://koti-koti.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tst</title>
+      <link>http://koti-koti.ru/tst/</link>
+      <pubDate>Sun, 29 Apr 2018 23:04:03 +0300</pubDate>
+      
+      <guid>http://koti-koti.ru/tst/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About</title>
