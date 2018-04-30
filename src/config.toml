@@ -1,0 +1,7 @@
+baseURL = "http://koti-koti.ru/"
+languageCode = "en-us"
+title = "KOTI-KOTI.RU"
+theme = "koti"
+disqusShortname = ""
+googleAnalytics = "UA-118341891-1"
+publishDir = "./../htdocs"
