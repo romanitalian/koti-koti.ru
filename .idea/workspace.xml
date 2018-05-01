@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04ed7803-93ae-4a9f-8ad3-41e45de234d8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/htdocs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/categories/one-category/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/categories/one-category/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/categories/two-category/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/categories/two-category/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/page1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/page1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/page2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/page2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/page3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/page3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/page4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/page4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/page5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/page5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/themes/koti/layouts/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/themes/koti/layouts/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/themes/koti/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/themes/koti/layouts/partials/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/themes/koti/layouts/partials/js.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/themes/koti/layouts/partials/js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/themes/koti/theme.toml" beforeDir="false" afterPath="$PROJECT_DIR$/src/themes/koti/theme.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pics_and_texts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pics_and_texts.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,16 +27,49 @@
         <entry file="file://$PROJECT_DIR$/src/themes/koti/theme.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="js.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/themes/koti/layouts/partials/js.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="791">
-              <caret line="62" column="32" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+            <state relative-caret-position="264">
+              <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page6.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/content/page6.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="170">
+                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="11" selection-end-column="27" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page7.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/content/page7.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="170">
+                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pics_and_texts.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pics_and_texts.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -58,8 +77,8 @@
       <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/themes/hugo-creative-portfolio-theme/exampleSite/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="51">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -68,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/src/themes/hugo-creative-portfolio-theme/layouts/partials/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="18" selection-end-column="17" />
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="18" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -99,6 +118,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/config.toml" />
         <option value="$PROJECT_DIR$/src/themes/koti/layouts/partials/js.html" />
+        <option value="$PROJECT_DIR$/src/pics_and_texts.txt" />
+        <option value="$PROJECT_DIR$/src/content/page7.md" />
       </list>
     </option>
   </component>
@@ -137,6 +158,12 @@
               <item name="koti-koti.ru" type="b2602c69:ProjectViewProjectNode" />
               <item name="koti-koti.ru" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="koti-koti.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="koti-koti.ru" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="koti-koti.ru" type="b2602c69:ProjectViewProjectNode" />
@@ -220,7 +247,7 @@
     <entry file="file://$PROJECT_DIR$/src/themes/hugo-creative-portfolio-theme/layouts/partials/sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="18" selection-end-column="17" />
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -237,14 +264,7 @@
     <entry file="file://$PROJECT_DIR$/src/themes/koti/theme.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/themes/hugo-creative-portfolio-theme/exampleSite/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="7" />
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -255,10 +275,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/themes/hugo-creative-portfolio-theme/exampleSite/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/themes/koti/layouts/partials/js.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="791">
-          <caret line="62" column="32" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+        <state relative-caret-position="264">
+          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/page6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="11" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pics_and_texts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/page7.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="170">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
