@@ -1,45 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on KOTI-KOTI.RU</title>
+    <title>KOTI-KOTI.RU</title>
     <link>http://koti-koti.ru/categories/</link>
-    <description>Recent content in Categories on KOTI-KOTI.RU</description>
+    <description>Recent content on KOTI-KOTI.RU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 May 2018 22:27:02 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 22:33:50 +0300</lastBuildDate>
     
 	<atom:link href="http://koti-koti.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>http://koti-koti.ru/categories/</link>
+      <title>Best Friends</title>
+      <link>http://koti-koti.ru/page7/</link>
+      <pubDate>Tue, 01 May 2018 22:33:50 +0300</pubDate>
+      
+      <guid>http://koti-koti.ru/page7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Friends</title>
+      <link>http://koti-koti.ru/page7/</link>
+      <pubDate>Tue, 01 May 2018 22:33:50 +0300</pubDate>
+      
+      <guid>http://koti-koti.ru/page7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lion’s Mane</title>
+      <link>http://koti-koti.ru/page6/</link>
       <pubDate>Tue, 01 May 2018 22:27:02 +0300</pubDate>
       
-      <guid>http://koti-koti.ru/categories/</guid>
+      <guid>http://koti-koti.ru/page6/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>One Category</title>
-      <link>http://koti-koti.ru/categories/one-category/</link>
-      <pubDate>Sun, 29 Apr 2018 23:44:59 +0300</pubDate>
+      <title>Lion’s Mane</title>
+      <link>http://koti-koti.ru/page6/</link>
+      <pubDate>Tue, 01 May 2018 22:27:02 +0300</pubDate>
       
-      <guid>http://koti-koti.ru/categories/one-category/</guid>
+      <guid>http://koti-koti.ru/page6/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Two Category</title>
-      <link>http://koti-koti.ru/categories/two-category/</link>
-      <pubDate>Sun, 29 Apr 2018 23:44:59 +0300</pubDate>
+      <title>Choke Hold</title>
+      <link>http://koti-koti.ru/page5/</link>
+      <pubDate>Mon, 30 Apr 2018 23:03:38 +0300</pubDate>
       
-      <guid>http://koti-koti.ru/categories/two-category/</guid>
+      <guid>http://koti-koti.ru/page5/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>018 23:03:38 +0300</pubDate>
+    <item>
+      <title>Choke Hold</title>
+      <link>http://koti-koti.ru/page5/</link>
+      <pubDate>Mon, 30 Apr 2018 23:03:38 +0300</pubDate>
       
       <guid>http://koti-koti.ru/page5/</guid>
       <description></description>
