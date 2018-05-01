@@ -5,3 +5,11 @@ theme = "koti"
 disqusShortname = ""
 googleAnalytics = "UA-118341891-1"
 publishDir = "./../htdocs"
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  copyright = "&copy;2016 Your name or company"
+  ym = "25546679"
+  github = "asdafd"
