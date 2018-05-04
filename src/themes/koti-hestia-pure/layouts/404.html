@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en{{ end }}">
+{{ partial "head" . }}
+<body>
+  <div id="wrap" class="wrap">
+    {{ partial "header" . }}
+    <main class="main">
+      <h2>404 Page not found.</h2>
+      <p>The page you were looking for could not be found. The entered URL is incorrect or the page may have been deleted.</p>
+      <p>Please check the URL and reload it or return to <a href="/"> top page </a> m (_ _) m</p>
+    </main>
+  </div>
+{{ partial "js" . }}
+</body>
+</html>

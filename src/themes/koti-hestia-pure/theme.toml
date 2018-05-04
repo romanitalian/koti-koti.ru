@@ -1,0 +1,14 @@
+name = "koti-hestia-pure"
+license = "MIT"
+licenselink = "https://github.com/romanitalian/koti-hestia-pure/blob/master/LICENSE.md"
+description = ""
+homepage = "http://koti-kori.ru/"
+tags = ["", ""]
+features = ["", ""]
+min_version = 0.18
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
