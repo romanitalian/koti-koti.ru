@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04ed7803-93ae-4a9f-8ad3-41e45de234d8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/htdocs/page15/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/page15.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/htdocs/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/categories/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/categories/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/categories/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/categories/page/3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/image/theme/P9RCx4Z6_400x400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/image/theme/P9RCx4Z6_400x400.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/htdocs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/tags/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/tags/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/tags/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/tags/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/tags/page/3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/page1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/page1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pics_and_texts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pics_and_texts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/page14.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/page14.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="js.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/themes/koti/layouts/partials/js.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="page6.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/content/page6.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -54,7 +34,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="204">
-                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                <caret line="12" selection-start-line="12" selection-end-line="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -65,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/htdocs/categories/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -74,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/htdocs/page2/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1836">
-              <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -83,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/htdocs/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1615">
-              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -93,32 +73,54 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="204">
-                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                <caret line="12" selection-start-line="12" selection-end-line="12" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P9RCx4Z6_400x400.jpg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/themes/koti/static/image/theme/P9RCx4Z6_400x400.jpg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="page14.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/content/page14.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="119">
+                <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page15.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/content/page15.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="85">
+                <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="6" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page16.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/content/page16.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="170">
+                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="pics_and_texts.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pics_and_texts.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/themes/hugo-creative-portfolio-theme/exampleSite/config.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="68">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -156,6 +158,8 @@
         <option value="$PROJECT_DIR$/src/pics_and_texts.txt" />
         <option value="$PROJECT_DIR$/src/content/page7.md" />
         <option value="$PROJECT_DIR$/src/content/page1.md" />
+        <option value="$PROJECT_DIR$/src/content/page14.md" />
+        <option value="$PROJECT_DIR$/src/content/page16.md" />
       </list>
     </option>
   </component>
@@ -200,12 +204,6 @@
               <item name="koti-koti.ru" type="462c0819:PsiDirectoryNode" />
               <item name="htdocs" type="462c0819:PsiDirectoryNode" />
               <item name="categories" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koti-koti.ru" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koti-koti.ru" type="462c0819:PsiDirectoryNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="page2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="koti-koti.ru" type="b2602c69:ProjectViewProjectNode" />
@@ -448,18 +446,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pics_and_texts.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/content/page7.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="204">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor />
         </state>
@@ -468,21 +459,21 @@
     <entry file="file://$PROJECT_DIR$/htdocs/categories/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/htdocs/page2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1836">
-          <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/htdocs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1615">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -493,18 +484,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/themes/koti/static/image/theme/P9RCx4Z6_400x400.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/content/page1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="204">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/themes/koti/static/image/theme/P9RCx4Z6_400x400.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/pics_and_texts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/page14.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/page15.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="6" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/page16.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
