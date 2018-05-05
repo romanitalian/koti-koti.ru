@@ -12,3 +12,4 @@ publishDir = "./../htdocs"
   copyright = "&copy;2018 Your name or company"
   github = "romanitalian"
   googleAnalytics = "UA-118341891-1"
+  yandexMetrika = 25546679
