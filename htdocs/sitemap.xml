@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://koti-koti.ru/page27/</loc>
+    <lastmod>2018-05-07T23:14:38+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://koti-koti.ru/page26/</loc>
     <lastmod>2018-05-06T21:50:28+03:00</lastmod>
   </url>
@@ -133,32 +138,32 @@
   </url>
   
   <url>
+    <loc>http://koti-koti.ru/categories/</loc>
+    <lastmod>2018-05-07T23:14:38+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://koti-koti.ru/tags/</loc>
-    <lastmod>2018-05-06T21:50:28+03:00</lastmod>
+    <lastmod>2018-05-07T23:14:38+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://koti-koti.ru/categories/</loc>
-    <lastmod>2018-05-06T21:50:28+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://koti-koti.ru/categories/</loc>
-    <lastmod>2018-05-06T21:50:28+03:00</lastmod>
+    <lastmod>2018-05-07T23:14:38+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://koti-koti.ru/</loc>
-    <lastmod>2018-05-06T21:50:28+03:00</lastmod>
+    <lastmod>2018-05-07T23:14:38+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://koti-koti.ru/tags/</loc>
-    <lastmod>2018-05-06T21:50:28+03:00</lastmod>
+    <lastmod>2018-05-07T23:14:38+03:00</lastmod>
     <priority>0</priority>
   </url>
   

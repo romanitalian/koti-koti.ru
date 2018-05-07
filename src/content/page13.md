@@ -9,4 +9,4 @@ tags = ["", ""]
 url = ""
 +++
 
-<img src="/imgs/page13.jpg">
+<img src="/imgs/page13.jpg" alt="Is This Where the Interviews Are?">

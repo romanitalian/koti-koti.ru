@@ -9,4 +9,4 @@ tags = ["", ""]
 url = ""
 +++
 
-<img src="/imgs/page22.jpg" title="Cat birthday">
+<img src="/imgs/page22.jpg" alt="Cat birthday">
