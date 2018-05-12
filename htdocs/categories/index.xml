@@ -1,35 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KOTI-KOTI.RU</title>
+    <title>Categories on KOTI-KOTI.RU</title>
     <link>http://koti-koti.ru/categories/</link>
-    <description>Recent content on KOTI-KOTI.RU</description>
+    <description>Recent content in Categories on KOTI-KOTI.RU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 May 2018 21:54:27 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 11 May 2018 21:57:06 +0300</lastBuildDate>
     
 	<atom:link href="http://koti-koti.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hey, Bro!</title>
-      <link>http://koti-koti.ru/page30/</link>
-      <pubDate>Thu, 10 May 2018 21:54:27 +0300</pubDate>
+      <title></title>
+      <link>http://koti-koti.ru/categories/</link>
+      <pubDate>Fri, 11 May 2018 21:57:06 +0300</pubDate>
       
-      <guid>http://koti-koti.ru/page30/</guid>
+      <guid>http://koti-koti.ru/categories/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hey, Bro!</title>
-      <link>http://koti-koti.ru/page30/</link>
-      <pubDate>Thu, 10 May 2018 21:54:27 +0300</pubDate>
+      <title>Рыжие</title>
+      <link>http://koti-koti.ru/categories/%D1%80%D1%8B%D0%B6%D0%B8%D0%B5/</link>
+      <pubDate>Sun, 29 Apr 2018 23:44:59 +0300</pubDate>
       
-      <guid>http://koti-koti.ru/page30/</guid>
+      <guid>http://koti-koti.ru/categories/%D1%80%D1%8B%D0%B6%D0%B8%D0%B5/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Суровый Кот</title>
+      <link>http://koti-koti.ru/categories/%D1%81%D1%83%D1%80%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D0%BE%D1%82/</link>
+      <pubDate>Sun, 29 Apr 2018 23:44:59 +0300</pubDate>
+      
+      <guid>http://koti-koti.ru/categories/%D1%81%D1%83%D1%80%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D0%BE%D1%82/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>m>
       <title>I am Hungry! Roar!</title>
       <link>http://koti-koti.ru/page29/</link>
       <pubDate>Wed, 09 May 2018 22:16:01 +0300</pubDate>
