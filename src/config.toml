@@ -13,3 +13,6 @@ publishDir = "./../htdocs"
   github = "romanitalian"
   googleAnalytics = "UA-118341891-1"
   yandexMetrika = 25546679
+
+  keywords="юмор, картинки, смешные коты, видео смешных котов, котоматрицы, картинки котов"
+  description="Смешыне картинки котов и милота"

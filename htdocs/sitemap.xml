@@ -188,13 +188,13 @@
   </url>
   
   <url>
-    <loc>http://koti-koti.ru/tags/</loc>
+    <loc>http://koti-koti.ru/categories/</loc>
     <lastmod>2018-05-31T21:29:26+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://koti-koti.ru/categories/</loc>
+    <loc>http://koti-koti.ru/tags/</loc>
     <lastmod>2018-05-31T21:29:26+03:00</lastmod>
     <priority>0</priority>
   </url>
