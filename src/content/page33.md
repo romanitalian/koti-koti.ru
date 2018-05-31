@@ -9,7 +9,7 @@ tags = ["", ""]
 url = ""
 +++
 
-<video controls style="width:640px;height:360px;" poster="/imgs/page33.jpg"  alt="You are not dog!">
+<video controls style="height:360px;" poster="/imgs/page33.jpg"  alt="You are not dog!">
   <source src="/video/page_video_33.webm" type='video/webm;codecs="vp8, vorbis"' />
   <source src="/video/page_video_33.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"' />
 </video>

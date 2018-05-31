@@ -9,4 +9,8 @@ tags = ["", ""]
 url = ""
 +++
 
-<img src="/imgs/page34.jpg" alt="Just paint The Cat">
+
+<video controls style="height:360px;" poster="/imgs/page34.jpg"  alt="Just paint The Cat">
+  <source src="/video/page_video_34.webm" type='video/webm;codecs="vp8, vorbis"' />
+  <source src="/video/page_video_34.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"' />
+</video>
