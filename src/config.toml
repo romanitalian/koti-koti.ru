@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "KOTI-KOTI.RU"
 theme = "koti-hestia-pure"
 disqusShortname = "koti-koti-ru"
-publishDir = "./../htdocs"
+publishDir = "./../public"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
