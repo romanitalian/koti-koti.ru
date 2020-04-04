@@ -1,4 +1,4 @@
-baseURL = "http://koti-koti.ru/"
+baseURL = "https://koti-koti.ru/"
 languageCode = "en-us"
 title = "KOTI-KOTI.RU"
 theme = "koti-hestia-pure"
