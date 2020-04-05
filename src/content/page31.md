@@ -7,7 +7,10 @@ image = "imgs/page31.jpg"
 layout = "post"
 tags = ["", ""]
 url = ""
+videos = ["/video/page_video_31.mp4"]
 +++
+
+
 
 <video controls style="height:360px;" poster="/imgs/page31.jpg" alt="Easter cat">
   <source src="/video/page_video_31.webm" type='video/webm;codecs="vp8, vorbis"' />

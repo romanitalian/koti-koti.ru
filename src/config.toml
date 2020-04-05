@@ -5,6 +5,9 @@ theme = "koti-hestia-pure"
 disqusShortname = "koti-koti-ru"
 publishDir = "./../public"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling

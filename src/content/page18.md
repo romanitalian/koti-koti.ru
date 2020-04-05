@@ -9,4 +9,4 @@ tags = ["", ""]
 url = ""
 +++
 
-<img src="/imgs/page18.jpg" alt="Just Playing Around…">
+![Just Playing Around…](/imgs/page18.jpg "Just Playing Around…")

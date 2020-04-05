@@ -9,5 +9,5 @@ tags = ["", ""]
 url = ""
 +++
 
-<img src="/imgs/page5.jpg">
+![Choke Hold](/imgs/page5.jpg "Choke Hold")
 

@@ -1,0 +1,3 @@
+[submodule "src/themes/hugo-video"]
+	path = src/themes/hugo-video
+	url = https://github.com/martignoni/hugo-video.git
